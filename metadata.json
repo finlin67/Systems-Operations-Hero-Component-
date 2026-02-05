@@ -1,0 +1,5 @@
+{
+  "name": "Systems Operations Hero",
+  "description": "A responsive, animated hero section component for a SaaS landing page, showcasing key operational metrics and system integrations. Built with React, TypeScript, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
